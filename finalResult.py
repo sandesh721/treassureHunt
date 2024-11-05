@@ -1,2 +1,2 @@
 # Place the correct order of collected keys and place it in the variable
-keys = "u got the treassure"
+keys = "place your collected keys in correct order"
